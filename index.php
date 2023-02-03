@@ -1,6 +1,6 @@
 <?php
   
-$string = "GeeksforGeeks!!";
+$string = "Demo code";
   
 // Printing the string directly
 echo ("Printing the string: ");
